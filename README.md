@@ -1,5 +1,7 @@
 # Project Title
 
+> **Using this template:** create a new repo from it, then rename the project in `README.md` and the environment name in `environment.yml`.
+
 One or two sentences: what question this project answers and why it matters.
 
 ## Key results
